@@ -1,11 +1,11 @@
 public class hello{
     public static void main(string[] args) {
         system.out.println("vs code is awsome..");
-        gretting("git");
+        display();
     }
 
-    public static void display(string name){
-        system.out.println("Bye Bye " + name);
+    public static void display(){
+        system.out println("Hello Hello")
     }
 
     public static int sqr(int x){
